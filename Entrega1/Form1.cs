@@ -16,5 +16,10 @@ namespace Entrega1
         {
             InitializeComponent();
         }
+
+        private void userControl11_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
