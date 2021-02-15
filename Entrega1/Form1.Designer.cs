@@ -51,6 +51,7 @@ namespace Entrega1
             this.userControl12.Name = "userControl12";
             this.userControl12.Size = new System.Drawing.Size(876, 390);
             this.userControl12.TabIndex = 1;
+            this.userControl12.Load += new System.EventHandler(this.userControl12_Load);
             // 
             // Form1
             // 

@@ -15,9 +15,15 @@ namespace Entrega1
         public Form1()
         {
             InitializeComponent();
+            
         }
 
         private void userControl11_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userControl12_Load(object sender, EventArgs e)
         {
 
         }
